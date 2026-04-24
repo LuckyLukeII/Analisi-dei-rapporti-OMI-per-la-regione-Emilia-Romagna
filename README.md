@@ -17,4 +17,5 @@ Analisi limitata alle abitazioni civili in stato normale.
 
 ## Come eseguire
   -pip install pandas numpy matplotlib
+  
   -Apri analisi.ipynb con VS Code o Jupyter
