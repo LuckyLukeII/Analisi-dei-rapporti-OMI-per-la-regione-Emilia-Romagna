@@ -14,3 +14,7 @@ Analisi limitata alle abitazioni civili in stato normale.
   2. Confronto prezzi tra tutti i comuni della provincia di Ravenna;
   3. Confronto prezzi tra le zone del comune di Bologna;
   4. Andamento e differenze tra la provincia di Bologna e Ravenna.
+
+## Come eseguire
+  -pip install pandas numpy matplotlib
+  -Apri analisi.ipynb con VS Code o Jupyter
