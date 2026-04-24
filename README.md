@@ -1,7 +1,16 @@
-# Analisi-dei-rapporti-OMI-per-la-regione-Emilia-Romagna
-Analisi dei report dell'Agenzia delle Entrate dal primo semestre del 2019 al secondo semestre del 2025 sui dati immobiliari civili della regione Emilia Romagna.
+# Analisi dei rapporti OMI — Emilia-Romagna
 
-Questo progetto ha come scopo principale allenarmi nell'utilizzo di librerie di python come Pandas, NumPy e Mathplotlib.
+Analisi dei dati immobiliari pubblici dell'Agenzia delle Entrate (primo semestre 2019 — secondo semestre 2025) per la regione Emilia-Romagna.
 
-Partendo da oltre 7 anni di raccolta dati da parte dell'Agenzia delle Entrate, ho creato un file .csv da oltre 130 000 righe che ho pulito per trattare solo gli immobili civili (come abitazioni o ville).
+## Obiettivo
+Esercitarsi con Pandas, NumPy e Matplotlib su dati reali, esplorando l'andamento del mercato immobiliare residenziale in Emilia-Romagna negli ultimi 7 anni.
 
+## Dataset
+Dati OMI scaricati dal portale dell'Agenzia delle Entrate, aggregati e puliti in un dataset da oltre 130.000 righe. 
+Analisi limitata alle abitazioni civili in stato normale.
+
+## Analisi principali
+  1. Prezzo medio nei principali comuni dell'Emilia-Romagna;
+  2. Confronto prezzi tra tutti i comuni della provincia di Ravenna;
+  3. Confronto prezzi tra le zone del comune di Bologna;
+  4. Andamento e differenze tra la provincia di Bologna e Ravenna.
