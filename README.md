@@ -15,6 +15,9 @@ Analisi limitata alle abitazioni civili in stato normale.
   3. Confronto prezzi tra le zone del comune di Bologna;
   4. Andamento e differenze tra la provincia di Bologna e Ravenna.
 
+Ad esempio questo grafico mostra le differenze tra i prezzi medi di Bologna per abitazioni civili e villette.
+<img width="1579" height="593" alt="Bologna-Ravenna" src="https://github.com/user-attachments/assets/73dcb967-61fe-497a-bf17-0f2923d172d8" />
+
 ## Come eseguire
   -pip install pandas numpy matplotlib
   
