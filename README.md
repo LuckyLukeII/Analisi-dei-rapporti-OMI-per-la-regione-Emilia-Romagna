@@ -15,9 +15,9 @@ Analisi limitata alle abitazioni civili in stato normale.
   3. Confronto prezzi tra le zone del comune di Bologna;
   4. Andamento e differenze tra la provincia di Bologna e Ravenna.
 
-Ad esempio questo grafico mostra le differenze tra i prezzi medi di Bologna per abitazioni civili e ville.
+Ad esempio questo grafico mostra le differenze tra i prezzi medi di Bologna per abitazioni civili e ville. 
 <img width="1579" height="593" alt="Bologna-Ravenna" src="https://github.com/user-attachments/assets/73dcb967-61fe-497a-bf17-0f2923d172d8" />
-Possiamo vedere come le ville e le villette hanno negli anni avuto entrambe un aumento di prezzi, ma il costo relativo tra Bologna e Ravenna è rimasto più o meno uguale, cosa non vera per le abitazioni civili, che sono cresciute di più a Bologna rispetto che a Ravenna.
+Bologna-Ravenna Possiamo vedere come le ville e le villette hanno negli anni avuto entrambe un aumento di prezzi, ma il costo relativo tra Bologna e Ravenna è rimasto più o meno uguale, cosa non vera per le abitazioni civili, che sono cresciute di più a Bologna rispetto che a Ravenna.
 
 ## Come eseguire
   -pip install pandas numpy matplotlib
