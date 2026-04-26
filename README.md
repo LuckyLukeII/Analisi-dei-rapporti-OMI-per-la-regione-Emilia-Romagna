@@ -20,6 +20,8 @@ Ad esempio questo grafico mostra le differenze tra i prezzi medi di Bologna per 
 Bologna-Ravenna Possiamo vedere come le ville e le villette hanno negli anni avuto entrambe un aumento di prezzi, ma il costo relativo tra Bologna e Ravenna è rimasto più o meno uguale, cosa non vera per le abitazioni civili, che sono cresciute di più a Bologna rispetto che a Ravenna.
 
 ## Come eseguire
+  -scaricare dall'OMI i dati relativi agli anni dal 2019 al 2025
+  
   -pip install pandas numpy matplotlib
   
   -Apri analisi.ipynb con VS Code o Jupyter
